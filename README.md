@@ -67,6 +67,7 @@ Após a fase de modelagem e validação, o modelo de **Regressão Logística** a
 **Carlos Augusto** 
 
 **Juan Araújo**
+
 ---
 
 ## 📄 Licença
